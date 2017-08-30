@@ -7,8 +7,8 @@ pygments: true
 permalink: /posts/:title
 future: true
 auto: false
-url: http://thehackerwithin.github.com/CHAPTER
-chapter: CHAPTER
+url: http://thehackerwithin.github.com/ucla
+chapter: UCLA
 name: Hacker Within
 description: An initial blog and site for THW at CHAPTER
 twitter: hackerwithin
