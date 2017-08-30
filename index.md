@@ -19,7 +19,7 @@ title: About
 
 ## What:
 
-A weekly meeting of researchers who are always learning new tips and tricks to
+A regular meeting of researchers who are always learning new tips and tricks to
 make their computational work flow more smoothly.  In these friendly sessions,
 peers at all levels of experience share topics useful in our scientific
 software development workflows.
@@ -35,20 +35,18 @@ Anyone interested in software development best practices is welcome to come to o
 
 ## When:
 
-FIXME
+TBD
 
 ## How:
 
-FIXME
+* [Mailing list](https://groups.google.com/forum/?hl=en#!forum/ucla-hacker-within)
 
 ## Why:
-
 
 The tenets of scientiﬁc endeavor (e.g., data control, reproducibility,
 comprehensive documentation, and peer review) suffer in projects that fail
 to make use of current development tools such as unit testing, version
 control, automated documentation, and others.
-
 
 To avoid these pitfalls, this weekly meeting exists for sharing skills and best practices for
 computational scientific applications. This group is modeled after The
